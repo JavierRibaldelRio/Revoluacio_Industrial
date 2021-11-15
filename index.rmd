@@ -33,6 +33,7 @@ knitr::opts_chunk$set(echo = TRUE)
   - Llavors i espècies noves 
     - Creïlla
     - Dacsa
+  - Privatizació de la terra
   
      
     
@@ -50,23 +51,114 @@ Aquesta revolució es va produir cap a la fi del segle XVIII a gran Bretanya la 
 - Emigració cap a la ciutat
 - Inversió del capital en la industrial
 
-## Explica de la revolució demogràfica
-### Com era la situació de la població europea a finals del s. XVIII?
-### On, Quan i Què va passar?
-### Per què?
-### Quines conseqüències va tindre l’augment de la població?
+## Revolució Demogràfica
+### Situació a finals del segle XVIII
+A meitat el segle XVIII la població va esperimentar un creixement real(la resta entre naixements y morts produit) exponencial; es a dir que creix molt en poc temps
+
+### Descripció
+  - La taxa de Natalitat va aumentar drasticament.
+  
+  <!--Espacio reservado para la formula de la tasa de Natalidad-->
+  
+  - La taxa de mortalitat es va reduir
+  
+    <!--Espacio reservado para la formula de la tasa de Mottalidad-->
+    
+  - Com a conseqüència del dos punts anteriors el creixement real va a aumentar
+  
+    <!--Espacio reservado para la formula del crecimiento real gráfico que muestra la evolución de la TN, la TM y el CR a lo largo del siglo XVIII-->  
+    
+### Lloc, Data
+  Aquest canvi es va produir en Europa, però sobretot a Anglaterra. Va començar durant el segle XVIII i es podria dir que continua indefinidament.
+  
+### Causes
+- Aument del exedent agrari
+- Millora de l'alimentació i la higiene
+- Avanços mèdics i sanitaris
+- Canalització del aigua
+- Major us del Sabó
+
+### Conseqüències
+- Augment de la mà d'obra
+- Augment de la demanda del aliments i productes manufacturats
+- Augment de les ciutats
+
 # ELS INICIS DE LA INDUSTRIALITZACIÓ 
-## Què, On i Quan?
-## Per què? (Causes de la Revolució industrial)
-## Com es va desenvolupar la industrialització? (Les primeres indústries: fonts d’energia, matèries primàries i tipus d'indústria)
-## I després?... L’expansió internacional de la industrialització.
+## Descripció
+A la meitat del segle XVIII es va produir a Gran Bretanya varios canvis econòmics, com a conseqüència d'aixo es va produir la Revolució industrial.  en la qual es varen donar molts avanços a nivell Social-Econòmic en poc temps.
+## Causes
+- Creixement de la població
+  - (aument de la demanda)
+- Avançós tècnics
+  - Energia
+  - Siderúrgia
+  - Tèxtil
+- Xarxa de comunicacions
+  - Canals navegables
+- Burgesia amb mentalitat d'empresaris
+
+
+## Proces de la industralització
+
+Desenvolupament de les indústries: téxtil i siderúrgica
+
+### Téxtil
+  Com a conseqüència de l'augment de la població el primer sector en industrialitzar-se va ser el téxtil per l'augment de la població y les materies primes importades de les colònies
+
+### Siderúrgica
+
+L'hulla un tipo de carbó va aumentar la qualitat del ferro que es va utilitzar per a els transports
+
+## Expansió internacional
+ 1. Anglaterra
+ 2. Europa
+    - França
+    - Bèlgica
+    - Alemanya
+ 3. EUA i Japó
+ 
+Tot aixó es pot veure reflectit en aquest mapa
+  ![Mapa de l'expansió de la revolució industrial](img/mapa_ind.png)
+
 # LA REVOLUCIÓ DELS TRANSPORTS 
-## Introducció:
-### Com era la situació dels mitjans de transport a finals del s. XVIII?
-### Què va canviar, per què i quan?
-## Explica les transformacions del ferrocarril.
-## Explica l’aparició dels vaixell de vapor i com es transformaren les travessies marítimes.
-## Explica la importància que tindria posteriorment l’aparició de l’automòbil i l’avió.
+## Introducció
+### Situació al segle XVIII
+
+Els únics sistemes de tranports eren els tradicionals (vent, aigua i força animal)
+  
+### Descripció 
+Al segle XIX es va comená a aplicar la maquina de vapor als medis de transports. Ja que la gent tenia la necesitat de desplazarse a una rapidesa superior.
+
+## Ferrorocaril
+- ~~Vagonestes de tracció animal~~ → Locomotora a Vapor
+- En 1825 es va inagurar la primera lienea de ferrocaril
+- En 1830 primera línia amb passatgers
+- Durant el reste del segle XIX es va perfeccionar la locomotora
+
+![Un tren de 1830](img/tren2.jpg)
+
+## Vaixell de vapor i travessies marítimes
+
+- En 1803 es va idear la idea del vaixell de vapor
+- En 1807 va fer la seva primera travessiaente Nova York i Albany (mediant el riu Hudson)
+- En 1819 un vaixell va creuar el oceà atlàntic
+- A mitjans del segle XIX el us del vaixell es va estendre
+- A la fi del sele XIX el 67% dels vaixells eran de vapor
+- Més abant s'introduira el casc de Ferro y de Hèlix, a més del canvi de grandaria
+- Va ser molt utilitzat per al comerç
+
+![Un vaixell a vapor](img/barc.jpg)
+
+## L'automòbil i l’avió
+
+- Es varen crear amb el motord'explosió
+- En 1885 K. Benv va utlitzar el motiu de gasolina en els seus automòbils
+- En 1903 els germans Wright van fer el primer vol amb avió
+
+![Primer automòbil](img/coche.jpg)
+
+![Primer avió](img/avion.jpg)
+
 # EL TRIOMF DEL CAPITALISME 
 ## Què és el capitalisme?
 ## Com va sorgir? (El capitalisme liberal)
