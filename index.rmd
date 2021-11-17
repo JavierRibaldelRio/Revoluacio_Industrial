@@ -160,17 +160,88 @@ Al segle XIX es va comená a aplicar la maquina de vapor als medis de transports
 ![Primer avió](img/avion.jpg)
 
 # EL TRIOMF DEL CAPITALISME 
-## Què és el capitalisme?
-## Com va sorgir? (El capitalisme liberal)
-## El capitalisme va sorgir i agafà forma amb el sistema industrial de producció.
-Investiga i recorda com era sistema artesanal del gremis i compara’l amb el
-sistema industrial de producció.
-## El capitalisme va evolucionar cap a un capitalisme financer. En què va consistir?
+## Descripció
+  El capitalisme és un sistema econòmic que es va instaurar entre el propietaris i els inversors de les fabriques
+  
+## Aparició
+  El capitalisme va apareixer durant la revolució industrial. Las idees econòmiques anavan lligades a la burgesia, es basa en la societat privada. El lliurecanvisme va substituir al ~~proteccionisme~~, impulsat per Adam Smith.
+
+![Fotografia d'Adam Smith](img/adam.jpg)
+
+### LLiurecanvisme
+
+- Comerç Internacional
+- Lliure competencia
+- ~~Intervenció del estat~~
+- ~~Proteccionisme~~
+
+## Sistema Anterior / Sistema Industrial de Producció
+
+### Sistema Anterior (Gremis)
+  - Gremis, agrupació de persones del mateix ofici controlava la producció
+  - Els gremis tenian el su propi escalfó
+    - Aprenent
+      - Viu al gremi
+      - No te remuneració econòmica
+    - Oficial
+      - Te remuneració economica
+    - Mestre Artesá
+      - Dirigeix el gremi
+  - Tot el procés o fa una persona
+
+### Sistema Industrial
+  - Es treballa a una fàbrica
+  - Producció a gran escala
+  - Treballador sense cap qualificació
+  - Tasca molt específica
+  
+
+      
+
+## Capitalisme financer
+
+- Creacció de les societats anonimes
+  - El capital per a una inversió provenia d'una associació de  burgesos
+  - Cada part de l'empresa era una acció que es venia a la borsa
+- La banca va comenár a inventir
+
 
 # LA SOCIETAT DE CLASSES 
-## En què va consistir la transformació de la societat? (La societat estamental i la industrial)
-## Explica detalladament les característiques de la burgesia.
-## Explica qui era el proletariat, com eren les condicions de treball que tenien i com era la seua vida en el s. XIX.
+## Introducció
+  - Canvis dratics en la societat:
+  
+  - ~~Aritocràcia~~
+  - ~~Artesans~~
+  - Burgesia ↑
+  - Proletariat ↑
+  
+## Burgesia
+ - Propietats de mitjans de producció
+    - Maquines
+    - Capital
+    - ...
+ - Família va ser básica
+  - Matrimoni
+ - Mansió
+ - Higiene (a partir del segle XX)
+ - Vida Social
+  - Casinos
+  - Cafe
+
+![Mansió de la burgesia](img/man.png)
+
+## Proletariat (Segle XIX)
+
+  - Obresrs per a les fàbriques
+    - Força de treball
+    - Salari
+  - Llarges jornades laborals 
+    - 14 - 16 hores
+  - DeshumanitzacióS
+  - Incorportació infantil i femenina
+  - Poca higiene
+  - Escàs temps d'oci
+  
 # EL MOVIMENT OBRER 
 ## Què és el moviment obrer i per què va sorgir?
 ## Com va sorgir l’obrerisme?
