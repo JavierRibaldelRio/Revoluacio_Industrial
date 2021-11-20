@@ -1,7 +1,7 @@
 ---
 title: "Revolució Industrial"
-author: "Javier Ribal del Rio"
-date: "12/11/2021"
+author: "Javier Ribal del Rio 4ºB"
+date: "Curso 2021-22"
 output:
  html_document:
     css: main.css
@@ -243,31 +243,220 @@ Al segle XIX es va comená a aplicar la maquina de vapor als medis de transports
   - Escàs temps d'oci
   
 # EL MOVIMENT OBRER 
-## Què és el moviment obrer i per què va sorgir?
-## Com va sorgir l’obrerisme?
-## Què és el socialisme?
-### Explica els diferents tipus de pensament socialista: què proposen i com volien aconseguir els seus objectius?
-## Què és l’anarquisme, què proposa i com pretenia aconseguir els seus objectius?
-## La Internacionals obrera:
-### Què va ser?
-### Per què va sorgir? On? Quan?
-### A quines dificultats es va enfrontar?
+## Descripció
+
+Es un moviment que va sorgir en contra del capitalisme i la industralització habia generat.
+
+## Origen
+- 1811 manifestacions *moviment ludita*: alguns obrers trencan maquines
+- Es varen crear associasons de com **mútues** o societasts de socors
+- 1824: Creació del sindicats
+    
+  
+## Socialisme
+Moviment que promou la igualtat en persones
+
+### Tipus
+
+#### Socialime Utòpic
+
+Societat fraternal i solidària . Fomenta el cooperatisme (~~Individualisme~~)
+
+#### Socialisme Científic
+
+Més racional que el Utòpic. Inpulsat per Karl Marx. També conegut com Marxalisme o comunisme
+
+![Karl Marx](img/marx.jpg)
+  
+## Anarquisme
+- Supressió del estat (~~Estat~~)
+- ~~Capitalisme~~
+- ~~Desigualtat econòmica~~
+- ~~Eleccions~~
+- Mikhaïl Bakunin
+
+![ Mikhaïl Bakunin](img/anar.jpg)
+
+## La Internacional obrera:
+### Descripció
+Agrupació de treaballadors francesos i britànics, que volien enfortir la solidaritat internacional
+### Causes
+- Obrers es van donar compta de que tenien els matixos problemes en diferents països
+
+#### Data
+  En 1864 varen formar la pimera Associació internacional de treballadors (AIT) O Primera internacional obrera.E n 1876 se va dissoldre. En 1889 la Segona internacional obrera
+
+#### Lloc
+
+La primera interncional va ser en Londres i la Segona internacional obrera a Paris
+  
+### Problemes 
+
+En 1876, com entre els marxistes, obreristes i anarquitstes  no arribaven a un acord la societat es va disoldre.
+
+![Segona Internacional Obrera](img/segona.jpg)
+
 # L'EXPANSIÓ DE LA INDUSTRIALITZACIÓ
-## La segona revolució industrial (Què? Quan? Per què?)
-## Quines novetats va aportar la segona revolució industrial?
+## Descripció
+  Va consistir en un altre canvi de la societat i la tecnològia en poc temps
+### Temps
+  - Últim terç del segle XIX
+  
+### Causes
+- Impulsos
+  - Tecnològic
+  - Científic 
+- Factors
+  
+  - Econòmics
+  - Laborals
+
+## Novetats
+### Energia
+- El Petroli
+  - Gasolina
+  - Fuel
+  - Gasoil
+  
+- L'electricitat
+  - Invenció del la dinamo
+  - El telefon
+  
+![El primer telefon](img/tel.jpg)
+  
+### Indústries
+  - Siderometal·lúrgica
+    - Nous metals
+      - Alumini
+      - Coure
+  - Química
+    - Fertilitzants
+    - Explosius
+    - Sintètics
+    
+  
+### Sistemes productius
+
+- En sèrie: Treball en series breus de temps cronometrades
+
+- En Cadena: Diferents treballadors intervenen en el diferent procés de fabricació
+
+![Producció en Cadena](img/cadena.jpeg)
+
+### Concentració Empresarial
+  Consisteix en diferent formes que tenen las empresad d'agruparse
+
+#### Càrtel
+ Empreses és junten però mantenen la seva independència
+ 
+#### Trust
+  
+  Empreses és junten en una mateixa empresa, sense mantenir la seva independència
+
+#### Hòlding
+  Una empresa treballa en distints negocis
+  
+
+![Càrter, Trust i Holding](img/cth.jpg)
+  
+## Noves potències mundials
+- França: Rica en recursos minerals
+- Bèlgica: grans reservas de carbó
+- Alemanya: gran mercart interior
+- Japó: El seu proces de desnvolupament va intervindre el estat
+- Estats Units: Gran industrialització
+
+# TERCERA REVOLUCIÓ INDUSTRIAL
+
+## Descripció
+Es un altre proces de canvis rápids en molt poc temps, esta revolució va començar a l'última part del segle XIX però no va tindre molta repercusió en la societat fins al principi del segle XXI.
+
+### Causes
+ - Nous mitjans de comunicació
+ - Nous mitjans de transports 
+ - Especialització de les persones
+
+## Novetat
 ### Noves energies
-### Noves indústries
-### Nous sistemes productius
-### Noves formes d’organització empresarials (Concentració empresarial què és i tipus?)
-### Noves potències mundials
-# LA INDUSTRIA A L’ACTUALITAT
-## La tercera revolució industrial (Què? Quan? Per què?)
-## Quines novetats està aportant la tercera revolució industrial?
-### Noves energies
-### Noves indústries
-### Nous sistemes productius
+
+#### Energias renovables
+<table class="demo">
+<tbody>
+<tr>
+<th>ENERGIA</th>
+<th>AVANTATGES<br></th>
+<th>INCONVENIENTS</th>
+<th>EXEPLES D'US<br></th>
+</tr>
+<tr>
+<td>Hidráulica</td>
+<td>El moviment del aigua tranformat en energia</td>
+<td>Instal·lació costosa<br></td>
+<td>Pressas</td>
+</tr>
+<tr>
+<td>Solar</td>
+<td>Captar la radiacció del sol i tranformar-la en energia</td>
+<td>Instal·lació costosa i necesita grans extensions <br></td>
+<td>Hospitals i hotels solars<br></td>
+</tr>
+<tr>
+<td>Eòlica</td>
+<td>Força del vent transformada en energia</td>
+<td>Alteració de paisatges i problemes de fauna (aus)<br></td>
+<td>En la ramaderia<br></td>
+</tr>
+<tr>
+<td>Biomassa</td>
+<td>Combustió de llenya <br></td>
+<td>Emissions</td>
+<td>Calefaccions</td>
+</tr>
+<tr>
+<td>Geotermica<br></td>
+<td>Aprofitar el calor de la terra<br></td>
+<td>Transformació del paisatge<br></td>
+<td>Calefaccions</td>
+</tr>
+<tr>
+<td>Maremotriu</td>
+<td>Transformar en energia els moviments de las mareas<br></td>
+<td>No rentable<br></td>
+<td>Suministrar energia als ports maritims<br></td>
+</tr>
+</tbody>
+</table>
+
+
+
+### Indústria
+- Tecnologia aeronauticas
+- Energias reonvables
+- Biotecnologia
+- Industria de les "TICS"
+  - Tecnologia de la Informació i la comunicació
+  
+### Sistemes productius
+  
+- Just in time: sistema en el qual es produeix a memanda i no s'amagatzena res
+
 ### Reptes de la industria actual
+  
+  - Digitalització: Un process per el qula la tecnologia digital s'implanta en l'economia de la empresa. El problma que sque digitalitzar una empresa te un cost molt elevat
+
 ### Potències industrials actuals
 
+- Els Brics
+  - Gran extensió territorial
+  - Emergents
+  
+![Brics](img/brics.jpg)
+<bR>
+
+- "Els de sempre" (Japó, Anglaterra...)
 
 
+
+<bR> <br> <hr>
+
+GitHub: [https://github.com/JavierRibaldelRio](https://github.com/JavierRibaldelRio)
