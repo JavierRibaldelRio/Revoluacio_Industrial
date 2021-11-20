@@ -1,31 +1,35 @@
+#header {
+	background-image: url('./img/tren.jpg');
+	background-size: cover;
+	/*Hace que la foto no se estire*/
+	padding: 10vmax 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
 
+	color: whitesmoke;
+}
 
-#header{
-  background-image: url('./img/tren.jpg');
-  background-size: cover; /*Hace que la foto no se estire*/
-  padding: 10vmax 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-    flex-direction: column;
-    
-    color: whitesmoke;
+img {
+	margin: 10vmin;
+	height: 60vh;
+	width: auto;
 }
-img{
-  margin: 10vmin;
-  height: 60vh;
-  width: auto;
-}
+
 demo {
-		border:1px sólido #C0C0C0;
-		border-collapse:colapso;
-		padding:5px;
-	}
-	.demo th {
-		border:2px sólido #C0C0C0 !important;
-		padding:5px;
-		background:#F0F0F0;
-	}
-	.demo td {
-		border:1px sólido #C0C0C0;
-		padding:5px;
+	border: 1px sólido #C0C0C0;
+	border-collapse: colapso;
+	padding: 5px;
+}
+
+.demo th {
+	border: 2px sólido #C0C0C0 !important;
+	padding: 5px;
+	background: #F0F0F0;
+}
+
+.demo td {
+	border: 1px sólido #C0C0C0;
+	padding: 5px;
+}
