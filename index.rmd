@@ -35,6 +35,8 @@ knitr::opts_chunk$set(echo = TRUE)
     - Dacsa
   - Privatizació de la terra
   
+  ![Dacsa](img/dacsa.jpeg)
+  
      
     
 ### Lloc, Data
@@ -50,6 +52,8 @@ Aquesta revolució es va produir cap a la fi del segle XVIII a gran Bretanya la 
 - Aument del CR
 - Emigració cap a la ciutat
 - Inversió del capital en la industrial
+
+![Éxode Rural](img/exode.jpeg)
 
 ## Revolució Demogràfica
 ### Situació a finals del segle XVIII
@@ -78,6 +82,8 @@ A meitat el segle XVIII la població va esperimentar un creixement real(la resta
 - Canalització del aigua
 - Major us del Sabó
 
+![Un noi escombrant la terra](img/higi.jpg)
+
 ### Conseqüències
 - Augment de la mà d'obra
 - Augment de la demanda del aliments i productes manufacturats
@@ -104,10 +110,14 @@ Desenvolupament de les indústries: téxtil i siderúrgica
 
 ### Téxtil
   Com a conseqüència de l'augment de la població el primer sector en industrialitzar-se va ser el téxtil per l'augment de la població y les materies primes importades de les colònies
+  
+![Imatge de la indústria téxtil](img/indus_text.jpeg)
 
 ### Siderúrgica
 
 L'hulla un tipo de carbó va aumentar la qualitat del ferro que es va utilitzar per a els transports
+
+![Imatge de la indústria siderúrgica](img/indus_side.jpg)
 
 ## Expansió internacional
  1. Anglaterra
@@ -163,6 +173,8 @@ Al segle XIX es va comená a aplicar la maquina de vapor als medis de transports
 ## Descripció
   El capitalisme és un sistema econòmic que es va instaurar entre el propietaris i els inversors de les fabriques
   
+![Representació del capitalisme](img/capi.jpg)
+  
 ## Aparició
   El capitalisme va apareixer durant la revolució industrial. Las idees econòmiques anavan lligades a la burgesia, es basa en la societat privada. El lliurecanvisme va substituir al ~~proteccionisme~~, impulsat per Adam Smith.
 
@@ -189,6 +201,8 @@ Al segle XIX es va comená a aplicar la maquina de vapor als medis de transports
       - Dirigeix el gremi
   - Tot el procés o fa una persona
 
+![Diagrafa del funcionaments del gremis](img/gremios.png)
+
 ### Sistema Industrial
   - Es treballa a una fàbrica
   - Producció a gran escala
@@ -204,6 +218,8 @@ Al segle XIX es va comená a aplicar la maquina de vapor als medis de transports
   - El capital per a una inversió provenia d'una associació de  burgesos
   - Cada part de l'empresa era una acció que es venia a la borsa
 - La banca va comenár a inventir
+
+![Imatge que representa el capitalisme financer](img/capi_fina.jpg)
 
 
 # LA SOCIETAT DE CLASSES 
@@ -241,11 +257,16 @@ Al segle XIX es va comená a aplicar la maquina de vapor als medis de transports
   - Incorportació infantil i femenina
   - Poca higiene
   - Escàs temps d'oci
+
+![Imatge del proletariat](img/prole.jpg)
   
 # EL MOVIMENT OBRER 
 ## Descripció
 
 Es un moviment que va sorgir en contra del capitalisme i la industralització habia generat.
+
+
+![Moviment Obrer](img/movi_obrer.jpg)
 
 ## Origen
 - 1811 manifestacions *moviment ludita*: alguns obrers trencan maquines
@@ -267,7 +288,8 @@ Societat fraternal i solidària . Fomenta el cooperatisme (~~Individualisme~~)
 Més racional que el Utòpic. Inpulsat per Karl Marx. També conegut com Marxalisme o comunisme
 
 ![Karl Marx](img/marx.jpg)
-  
+  ![Logotipo del comunisme](img/comu.png)
+
 ## Anarquisme
 - Supressió del estat (~~Estat~~)
 - ~~Capitalisme~~
@@ -280,6 +302,7 @@ Més racional que el Utòpic. Inpulsat per Karl Marx. També conegut com Marxali
 ## La Internacional obrera:
 ### Descripció
 Agrupació de treaballadors francesos i britànics, que volien enfortir la solidaritat internacional
+
 ### Causes
 - Obrers es van donar compta de que tenien els matixos problemes en diferents països
 
@@ -289,6 +312,8 @@ Agrupació de treaballadors francesos i britànics, que volien enfortir la solid
 #### Lloc
 
 La primera interncional va ser en Londres i la Segona internacional obrera a Paris
+
+![Imatge de Londres](img/lon.jpg)
   
 ### Problemes 
 
@@ -299,6 +324,7 @@ En 1876, com entre els marxistes, obreristes i anarquitstes  no arribaven a un a
 # L'EXPANSIÓ DE LA INDUSTRIALITZACIÓ
 ## Descripció
   Va consistir en un altre canvi de la societat i la tecnològia en poc temps
+  
 ### Temps
   - Últim terç del segle XIX
   
@@ -317,7 +343,9 @@ En 1876, com entre els marxistes, obreristes i anarquitstes  no arribaven a un a
   - Gasolina
   - Fuel
   - Gasoil
-  
+
+![Petroli](img/pet.jpg)
+
 - L'electricitat
   - Invenció del la dinamo
   - El telefon
@@ -333,7 +361,8 @@ En 1876, com entre els marxistes, obreristes i anarquitstes  no arribaven a un a
     - Fertilitzants
     - Explosius
     - Sintètics
-    
+  
+![Indústria Quimica](img/quim.jpg)
   
 ### Sistemes productius
 
@@ -374,7 +403,7 @@ Es un altre proces de canvis rápids en molt poc temps, esta revolució va comen
 ### Causes
  - Nous mitjans de comunicació
  - Nous mitjans de transports 
- - Especialització de les persones
+ - Especialització de les persones    
 
 ## Novetat
 ### Noves energies
@@ -427,7 +456,7 @@ Es un altre proces de canvis rápids en molt poc temps, esta revolució va comen
 </tbody>
 </table>
 
-
+![Energias Renovables](img/ener.png)
 
 ### Indústria
 - Tecnologia aeronauticas
@@ -436,9 +465,13 @@ Es un altre proces de canvis rápids en molt poc temps, esta revolució va comen
 - Industria de les "TICS"
   - Tecnologia de la Informació i la comunicació
   
+  !["TICS"](img/Tics.jpg)
+  
 ### Sistemes productius
   
 - Just in time: sistema en el qual es produeix a memanda i no s'amagatzena res
+
+  ![Just in time](img/ji.gif)
 
 ### Reptes de la industria actual
   
