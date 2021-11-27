@@ -1,5 +1,5 @@
 #header {
-	background-image: url('./img/tren.jpg');
+  background-image: url('img/tren.jpg');
 	background-size: cover;
 	/*Hace que la foto no se estire*/
 	padding: 10vmax 0;
